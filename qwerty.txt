@@ -1,0 +1,15 @@
+* this is a comment
+[caps]>[space]
+*
+* make the key under j be downarrow
+[up]>[down]
+* make the key under k be uparrow
+[down]>[up]
+*
+[lctrl]>[delete]
+[delete]>[ralt]
+[bspace]>[lctrl]
+[rctrl]>[enter]
+[enter]>[kp-lwin]
+[space]>[lalt]
+[rshift]>[bspace]
