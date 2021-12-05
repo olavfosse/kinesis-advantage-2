@@ -16,3 +16,8 @@
 [space]>[lalt]
 * rightmost column:
 [rshift]>[bspace]
+* Special non-modifier keys:
+[=]>[`]
+[\]>[=]
+[cbrack]>[\]
+[`]>[cbrack]
