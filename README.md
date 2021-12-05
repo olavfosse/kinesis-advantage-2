@@ -8,3 +8,5 @@ cp qwerty.txt state.txt $VDRIVE/active/
 ```
 
 NB: qwerty.txt and state.txt uses CRLF newlines.
+
+This configuration optimizes for a shortcut-heavy MacOS workflow which is similar enough to the default MacOS layout such that it is easy to switch to a laptop keyboard.

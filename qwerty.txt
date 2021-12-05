@@ -1,8 +1,18 @@
 * this is a comment
-[caps]>[space]
 *
 * make the key under j be downarrow
 [up]>[down]
 * make the key under k be uparrow
 [down]>[up]
-*
+* leftmost column:
+[caps]>[lctrl]
+* left thumb-cluster:
+*[lctrl]->[fn] <- tror ikke det er mulig å mappe til fn dessverre
+[bspace]>[kp-lwin]
+[delete]>[space]
+* right thumb-cluster:
+[rctrl]>[enter]
+[enter]>[kp-lwin]
+[space]>[lalt]
+* rightmost column:
+[rshift]>[bspace]
