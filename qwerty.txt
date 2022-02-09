@@ -7,7 +7,8 @@
 * leftmost column:
 [caps]>[lctrl]
 * left thumb-cluster:
-*[lctrl]->[fn] <- tror ikke det er mulig å mappe til fn dessverre
+* [lctrl]>[fn] <- tror ikke det er mulig å mappe til fn dessverre
+[lctrl]>[esc]
 [bspace]>[kp-lwin]
 [delete]>[space]
 * right thumb-cluster:
