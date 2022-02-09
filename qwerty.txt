@@ -5,14 +5,14 @@
 * make the key under k be uparrow
 [down]>[up]
 * leftmost column:
-[caps]>[space]
-[lshift]>[enter]
+[caps]>[lctrl]
 * left thumb-cluster:
 *[lctrl]->[fn] <- tror ikke det er mulig å mappe til fn dessverre
 [bspace]>[kp-lwin]
-[delete]>[lshift]
+[delete]>[space]
 * right thumb-cluster:
-[enter]>[lctrl]
+[rctrl]>[enter]
+[enter]>[kp-lwin]
 [space]>[lalt]
 * rightmost column:
 [rshift]>[bspace]
@@ -21,7 +21,3 @@
 [\]>[=]
 [cbrack]>[\]
 [`]>[cbrack]
-* Space and enter have keybindings in the left columns which are for pressing with modifiers.
-* These ones in the thumb clusters are better for pressinug alone:
-[rctrl]>[enter]
-[lctrl]>[space]
