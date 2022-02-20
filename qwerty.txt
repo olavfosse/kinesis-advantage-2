@@ -5,15 +5,15 @@
 * make the key under k be uparrow
 [down]>[up]
 * leftmost column:
-[caps]>[lctrl]
+* (nothing here)
 * left thumb-cluster:
 * [lctrl]>[fn] <- tror ikke det er mulig å mappe til fn dessverre
 [lctrl]>[esc]
-[bspace]>[kp-lwin]
-[delete]>[space]
+[bspace]>[lctrl]
+[delete]>[kp-lwin]
 * right thumb-cluster:
 [rctrl]>[enter]
-[enter]>[kp-lwin]
+[enter]>[space]
 [space]>[lalt]
 * rightmost column:
 [rshift]>[bspace]
