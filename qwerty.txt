@@ -23,3 +23,10 @@
 * [\]>[=]
 * [cbrack]>[\]
 * [`]>[cbrack]
+* I bind the two coluns of keys that i don't really use to the f13-f16 keys so that it's easy to bind them to other actions. Since f13-f16 is not on most keyboards, they are rarely used by applications so i have them free to bind to whatever i want:
+[alt]>[f13]
+[home]>[f14]
+[end]>[f15]
+[rwin]>[f16]
+[pup]>[f17]
+[pdown]>[f18]
